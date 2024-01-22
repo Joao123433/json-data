@@ -1,0 +1,1 @@
+Repositorio contendo os dados para requisicao do ts-quiz e do memory-game
